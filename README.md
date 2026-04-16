@@ -1,2 +1,20 @@
-# take-a-bites-
-Official website for Take A Bites, a fast food restaurant in Ranchi,  Jharkhand. Built using HTML, CSS and JavaScript. Features menu,  testimonials, and contact section. Developed as a Final Project for  the Website Development course by IIM Bangalore .
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/7d559684-21cf-4692-91eb-924c2fe7bd7e
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
